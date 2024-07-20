@@ -10,3 +10,7 @@ Business Solution:-
  Created a comprehensive Spotify analysis dashboard that tracks Total Streams, Total Tracks, Average Streams, Top Artists by Streams, Streams by Year, Streams by Quarter, Top 10 Artists by Streams, Streams by Month, Number of Tracks, and Average Streams using Power BI. 
 
  Implemented real-time data updates and interactive features, improving data accessibility for stakeholders.  Analyzed streaming data to identify trends, top-performing artists, and opportunities for optimizing content strategy and user engagement.
+
+References:- 
+
+[1] - https://www.youtube.com/watch?v=pC1gQL-b6b8&t=3553s
