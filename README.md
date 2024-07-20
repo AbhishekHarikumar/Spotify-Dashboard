@@ -3,7 +3,7 @@
 
 Spotify Analysis 
 Business Problem:- 
-There is an experiencing challenge in effectively analyzing and managing its vast amount of streaming data. There is a need for an interactive and comprehensive dashboard that consolidates all relevant streaming metrics, provides real-time updates, and enhances data accessibility for stakeholders.
+There is an challenge in effectively analyzing and managing its vast amount of streaming data. There is a need for an interactive and comprehensive dashboard that consolidates all relevant streaming metrics, provides real-time updates, and enhances data accessibility for stakeholders.
 
 Business Solution:-
 
